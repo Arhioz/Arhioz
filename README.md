@@ -21,7 +21,7 @@ Actualmente combino mi sólida base de sistemas con el desarrollo backend asínc
 
 ## 🚀 Proyectos Destacados en Producción
 
-* **[Anime Master API](https://github.com/Arhioz/tu-repositorio-api)** * API RESTful asíncrona de alto rendimiento construida con **FastAPI** y **Python**.
+* **[Anime Master API](https://github.com/Arhioz/Proyecto-Anime-API)** * API RESTful asíncrona de alto rendimiento construida con **FastAPI** y **Python**.
   * Arquitectura híbrida distribuida: Desplegada en contenedores **Docker** dentro de una instancia **AWS EC2** (Ubuntu Server), comunicada con una base de datos **PostgreSQL** administrada externamente.
   * Protegida mediante autenticación basada en **Tokens JWT** (encriptación Bcrypt) e implementación de **Rate Limiting** para la mitigación de ataques por denegación de servicio.
 
