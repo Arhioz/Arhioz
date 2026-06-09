@@ -39,7 +39,7 @@ Siempre estoy buscando expandir mis límites técnicos. Actualmente enfocado en 
 
 ## 📬 Conectemos
 
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil) 
-* **Email:** tu-correo@email.com 
+* **LinkedIn:** [linkedin.com/in/patricio-rivera-backend-dev](https://linkedin.com/in/patricio-rivera-backend-dev) 
+* **Email:** riverac.93@gmail.com
 
 ¡Gracias por visitar mi perfil! Desarrollar software con la estabilidad de un administrador de sistemas es mi estándar diario.
